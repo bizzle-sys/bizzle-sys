@@ -1,5 +1,6 @@
-### Hi there 👋
-<div id = "header" allign = "center">
+### <div class = "text-content" align = "center">Hi there 👋 My name is Reeamsh Maharjan </div>
+<div class = "text-content" align = "center">I am a frontend developer from Sydney, Australia </div>
+<div id = "header" align = "center">
 <img src = "https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width = "100"/>
 </div>
 
