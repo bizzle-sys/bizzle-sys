@@ -4,6 +4,12 @@
 <img src = "https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width = "100"/>
 </div>
 
+<div id = badge align = "center">
+<a href = "https://www.linkedin.com/in/reeamsh-maharjan/">
+<img src = https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white/>
+</a>
+</div>
+
 <!--
 **bizzle-sys/bizzle-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
