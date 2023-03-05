@@ -26,6 +26,6 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt = "figma" height = "40px" width = "40px"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt = "wordpress" height = "40px" width = "40px"
        />
-
+asad
   
  </div>
