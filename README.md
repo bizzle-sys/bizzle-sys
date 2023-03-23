@@ -11,8 +11,7 @@
 </a>
 </div>
 
-<div id = "skill-tree" align= "center">
-### 🛠️ <h3 >Languages and Tools: </h3>
+<div id = "skill-tree" align= "center" 🛠️ <h3 >Languages and Tools: </h3>
 <br/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt = "html" height= "40px" width= "40px"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt = "css" height = "40px" width = "40px"/>
