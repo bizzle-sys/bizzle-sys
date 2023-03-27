@@ -3,15 +3,15 @@
 <div class = "text-content" align = "center">I am a frontend developer from Sydney, Australia </div>
 <div id = "header" align = "center">
 <img src = "https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width = "100"/>
-</div>v 
+</div>
 
 <div id = "badge" align = "center">
 <a href = "https://www.linkedin.com/in/reeamsh-maharjan/">
 <img src = https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white/>
 </a>
 </div>
-
-<div id = "skill-tree" align= "center" 🛠️ <h3 >Languages and Tools: </h3>
+<br/>
+<div id = "skill-tree" align= "center"><h2> 🛠️ Languages and Tools: </h2>
 <br/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt = "html" height= "40px" width= "40px"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt = "css" height = "40px" width = "40px"/>
