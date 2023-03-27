@@ -3,7 +3,7 @@
 <div class = "text-content" align = "center">I am a frontend developer from Sydney, Australia </div>
 <div id = "header" align = "center">
 <img src = "https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width = "100"/>
-</div>v vvvxv
+</div>v 
 
 <div id = "badge" align = "center">
 <a href = "https://www.linkedin.com/in/reeamsh-maharjan/">
@@ -26,8 +26,8 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt = "figma" height = "40px" width = "40px"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt = "wordpress" height = "40px" width = "40px"/>
 </div>
-adssad
+
 <div id = "streak">
 <p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=bizzle-sys&" alt= "strek"/>
 </div>
-hkhkb
+
