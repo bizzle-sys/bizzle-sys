@@ -31,4 +31,7 @@
 <div id = "streak">
 <p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=bizzle-sys&" alt= "strek"/>
 </div>
+<div id = "stats" align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bizzle-sys&layout=compact&theme=vision-friendly-dark"
+ </div>
 
