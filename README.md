@@ -12,7 +12,7 @@
 </div>
 <br/>
 <div id = "skill-tree" align= "center"><h2> 🛠️ Languages and Tools: </h2>
-<br/>
+
 <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt = "html" height= "40px" width= "40px"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt = "css" height = "40px" width = "40px"/>
  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt = "js" height = "40px" width = "40px"/>
