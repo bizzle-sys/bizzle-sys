@@ -1,6 +1,6 @@
 ### <div class = "text-content" align = "center">Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></div>
  <h1 align = "center">My name is Reeamsh Maharjan </h1>
-<div class = "text-content" align = "center">I am a frontend developer from Sydney, Australia </div>
+<div class = "text-content" align = "center"> <h3>I am a frontend developer from Sydney, Australia </h3></div>
 <div id = "header" align = "center">
 <img src = "https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width = "100"/>
 </div>
