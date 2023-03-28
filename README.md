@@ -27,12 +27,13 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt = "wordpress" height = "40px" width = "40px"/>
 </div>
 <br>
+<br>
+ <div id = "stats" align= "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bizzle-sys&theme=dracula" alt= "stats"/>
+</div>
 
 <div id = "streak" align = "center">
  <img src = "http://github-readme-streak-stats.herokuapp.com?user=bizzle-sys&theme=buefy-dark" alt = "streak"/>
  </div>
- <br>
- <div id = "stats" align= "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bizzle-sys&theme=dracula" alt= "stats"/>
-</div>
+ 
 
